@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JunHyun0910
-- 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning FIB
-- 💞️ I’m looking to collaborate on IT Knowledge sharing
-- 📫 How to reach me email me
-- 😄 Pronouns: He/Him
+- 👀 I’m interested in Computer Science, Coding, and project related to game.
+- 🌱 I’m currently learning from Foundation in Business
+- 💞️ I’m looking to collaborate on IT/Coding Knowledge sharing
+- 📫 Nuh uh
+- 😄 Pronouns: Walmart Bag
 - ⚡ Fun fact: There`s not Fun about me
 
 <!---
